@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MangaLibApp</string>
+
+    <string name="nav_bell_desc">Bell</string>
+    <string name="nav_profile_desc">Profile</string>
+    <string name="nav_name">Name</string>
+
+</resources>
